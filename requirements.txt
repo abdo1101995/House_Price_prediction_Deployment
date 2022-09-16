@@ -4,3 +4,5 @@ numpy==1.23.1
 pandas==1.4.4
 scikit_learn==1.1.2
 sklearn_features==0.0.2
+xgboost==1.6.1
+
