@@ -17,7 +17,7 @@ from sklearn.preprocessing import StandardScaler ,OneHotEncoder
 
 
 #file path to read it
-FILE_PATH='D:\house_deployment\housing.csv'
+FILE_PATH='./housing.csv'
 # read file by pandas 
 df=pd.read_csv(FILE_PATH)
 #replace '<1H OCEAN' to 'OCEAN'
